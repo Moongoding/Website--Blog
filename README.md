@@ -12,12 +12,12 @@ Proyek Website Sederhana adalah sebuah platform web yang dibangun menggunakan fr
 
 ## Instalasi
 
-1. Clone repositori ini: `git clone https://github.com/nama-username/proyek-manajemen-berita.git`
-2. Install dependensi: `composer install`
-3. Salin berkas `.env.example` menjadi `.env` dan sesuaikan pengaturan basis data.
-4. Jalankan migrasi: `php artisan migrate`
-5. Jalankan server: `php artisan serve`
-6. Buka peramban dan akses `http://localhost:8080` (sesuaikan dengan localhost yang anda miliki) untuk mengakses platform.
+1. Clone repositori ini: `git clone https://github.com/Moongoding/Website-Blog.gitt`
+3. Install dependensi: `composer install`
+4. Salin berkas `.env.example` menjadi `.env` dan sesuaikan pengaturan basis data.
+5. Jalankan migrasi: `php artisan migrate`
+6. Jalankan server: `php artisan serve`
+7. Buka peramban dan akses `http://localhost:8080` (sesuaikan dengan localhost yang anda miliki) untuk mengakses platform.
 
 
 
