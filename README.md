@@ -7,7 +7,7 @@ Proyek Website Sederhana adalah sebuah platform web yang dibangun menggunakan fr
 - Manajemen Post: Tambah, Edit, hapus dengan mudah melalui panel yang telah di sediakan.
 - Data Palsu Otomatis: Paket "Faker" digunakan untuk mengisi database dengan data palsu untuk pengembangan dan pengujian. (https://fakerphp.github.io/)
 - Pengembangan Lokal Lancar: "Laravel Valet for Windows" memungkinkan Anda menjalankan proyek dengan mudah di lingkungan pengembangan lokal. Lebih lanjut kunjungi (https://github.com/cretueusebiu/valet-windows)
-- URL SEO-Friendly: Paket "Eloquent Sluggable" memastikan URL berita dihasilkan dengan ramah SEO berdasarkan judul berita. Lebih lanjut kunjungi (https://github.com/cviebrock/eloquent-sluggable)
+- URL SEO-Friendly: Paket "Eloquent Sluggable" memastikan URL dihasilkan dengan ramah SEO berdasarkan judul berita. Lebih lanjut kunjungi (https://github.com/cviebrock/eloquent-sluggable)
 - Tampilan menggunakan Nice Admin - Free bootstrap admin HTML template (https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/)
 
 ## Instalasi
